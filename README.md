@@ -8,5 +8,5 @@ https://github.com/manju121212/ParkingSpaceCounter/assets/87922695/2c68910a-0515
 * Html Css
   
 * Javascript
-*  
+
 
